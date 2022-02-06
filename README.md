@@ -13,6 +13,7 @@ The data set includes information about:
 * Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 * Demographic info about customers – gender, age range, and if they have partners and dependents
 
+## Objective
 The objective of this process is to obtain the clean data that are ready to be used in Machine Learning.
 
 ## Scope

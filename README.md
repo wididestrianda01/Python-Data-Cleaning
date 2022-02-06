@@ -4,8 +4,8 @@ The data cleaning process of Telco Customer Churn Data using Python
 The Telco customer churn data contains information about a fictional telco company that provided home phone and Internet services to 7043 customers in California in Q3. It indicates which customers have left, stayed, or signed up for their service. 
 
 Data Content
-Each row represents a customer, each column contains customer’s attributes 
-described on the column Metadata.
+
+Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
 The data set includes information about:
 * Customers who left within the last month – the column is called Churn

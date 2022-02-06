@@ -3,7 +3,7 @@ The data cleaning process of Telco Customer Churn Data using Python
 
 The Telco customer churn data contains information about a fictional telco company that provided home phone and Internet services to 7043 customers in California in Q3. It indicates which customers have left, stayed, or signed up for their service. 
 
-Data Content
+## Data Content
 
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
@@ -15,6 +15,7 @@ The data set includes information about:
 
 The objective of this process is to obtain the clean data that are ready to be used in Machine Learning.
 
+## Scope
 The data cleaning process consists of:
 1. Converting the data type to its approriate contextual content
 2. Handling Missing Values and Duplicated Rows/Columns
